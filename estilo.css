@@ -18,3 +18,9 @@ main{
 .img01{
     width: 100%;
 }
+.passo{
+    display: none;
+}
+.passo.ativo{
+    display: block;
+}
