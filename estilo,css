@@ -8,6 +8,6 @@ body{
 }
 button{
     background-color: green;
-    color: white;
+    color: rgb(238, 48, 95);
     padding: 20px;
 }
